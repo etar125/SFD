@@ -1,0 +1,5 @@
+C:\Users\etar125\Documents\SharpDevelop Projects\sfd\sfd\obj\Debug\sfd.csprojResolveAssemblyReference.cache
+C:\Users\etar125\Documents\SharpDevelop Projects\sfd\sfd\bin\Debug\sfd.dll
+C:\Users\etar125\Documents\SharpDevelop Projects\sfd\sfd\bin\Debug\sfd.pdb
+C:\Users\etar125\Documents\SharpDevelop Projects\sfd\sfd\obj\Debug\sfd.dll
+C:\Users\etar125\Documents\SharpDevelop Projects\sfd\sfd\obj\Debug\sfd.pdb
